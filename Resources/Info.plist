@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+    <key>CFBundleExecutable</key><string>WebWatcher</string>
+    <key>CFBundleIdentifier</key><string>local.webwatcher.app</string>
+    <key>CFBundleName</key><string>Web Watcher</string>
+    <key>CFBundleDisplayName</key><string>Web Watcher</string>
+    <key>CFBundlePackageType</key><string>APPL</string>
+    <key>CFBundleShortVersionString</key><string>0.3.0</string>
+    <key>CFBundleVersion</key><string>3</string>
+    <key>LSMinimumSystemVersion</key><string>14.0</string>
+    <key>LSUIElement</key><true/>
+    <key>NSHighResolutionCapable</key><true/>
+    <key>NSLocationUsageDescription</key><string>用于通过系统支持的接口显示当前 Wi-Fi 名称和附近候选，不采集位置坐标。公网探测和网速统计不需要定位权限。</string>
+</dict></plist>
